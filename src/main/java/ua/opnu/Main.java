@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // --- Завдання 1: Предикат для простих чисел ---
+        // --- Завдання 1: Предикат для простих чисел. ---
         System.out.println("--- Завдання 1: Предикат для простих чисел ---");
         Predicate<Integer> isPrime = n -> {
             if (n <= 1) return false;

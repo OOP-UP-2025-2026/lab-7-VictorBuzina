@@ -14,7 +14,7 @@ public class Student {
         this.marks = marks;
     }
 
-    // Гетери
+    // Гетери.
     public String getName() {
         return name;
     }
